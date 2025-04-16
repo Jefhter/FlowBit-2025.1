@@ -3,7 +3,7 @@ TODO: adicionar imagem do grupo
 
 Desenvolvimento Ágil (EC46C)
 
-Gabriel Augusto Morisaki Rita
+[Gabriel Augusto Morisaki Rita](https://github.com/gasakiri)
 Jefhter Rodrigues Cabral (https://github.com/Jefhter)
 Kaique Tavares Zambrano 
 Luigi Augusto Rovani 
