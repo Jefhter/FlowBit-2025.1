@@ -4,9 +4,13 @@ TODO: adicionar imagem do grupo
 Desenvolvimento Ágil (EC46C)
 
 [Gabriel Augusto Morisaki Rita](https://github.com/gasakiri)
-Jefhter Rodrigues Cabral (https://github.com/Jefhter)
-Kaique Tavares Zambrano 
-Luigi Augusto Rovani 
+
+[Jefhter Rodrigues Cabral](https://github.com/Jefhter)
+
+[Kaique Tavares Zambrano]()
+
+[Luigi Augusto Rovani]()
+
 TODO: adicionar links para o git
 
 TODO: adicionar Descrição do que é o projeto (objetivo, principais funcionalidades do software,
