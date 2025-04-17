@@ -1,18 +1,52 @@
-# FlowBit-2025.1
-TODO: adicionar imagem do grupo
+# 💡 FlowBit - 2025.1
 
-Desenvolvimento Ágil (EC46C)
+> Projeto desenvolvido para a disciplina **Desenvolvimento Ágil (EC46C)**  
 
-[Gabriel Augusto Morisaki Rita](https://github.com/gasakiri) - RA: 2268191
+---
 
-[Jefhter Rodrigues Cabral](https://github.com/Jefhter) - RA: 2565390
+## 👥 Integrantes
 
-[Kaique Tavares Zambrano](https://github.com/KaiqueZambrano) - RA: 2313073
+| Nome                          | RA        | GitHub                                       |
+|-------------------------------|-----------|----------------------------------------------|
+| Gabriel Augusto Morisaki Rita | 2268191   | [gasakiri](https://github.com/gasakiri)      |
+| Jefhter Rodrigues Cabral      | 2565390   | [Jefhter](https://github.com/Jefhter)        |
+| Kaique Tavares Zambrano       | 2313073   | [KaiqueZambrano](https://github.com/KaiqueZambrano) |
+| Luigi Augusto Rovani          | 2266474   | [luigirovani](https://github.com/luigirovani) |
 
-[Luigi Augusto Rovani](https://github.com/luigirovani) - RA: 2266474
+---
 
-TODO: adicionar Descrição do que é o projeto (objetivo, principais funcionalidades do software,
-público-alvo, etc)
+## 🖼️ Imagem do Grupo
 
-TODO: Documentos que serão encontrados no repositório (criaremos links para cada
-documento como se fosse um sumário). Por enquanto, deixem sem link.
+> **TODO**: Adicionar uma imagem ilustrativa do grupo ou do projeto aqui.
+
+---
+
+## 📌 Descrição do Projeto
+
+> **TODO**: Adicionar uma descrição clara e objetiva do projeto, incluindo:
+- O **objetivo principal** do software
+- As **principais funcionalidades**
+- O **público-alvo**
+- O contexto ou motivação para a criação do sistema
+
+---
+
+## 📂 Documentação Disponível no Repositório
+
+> **TODO**: Adicionar os documentos abaixo com links (ao serem criados).  
+> Por enquanto, seguem como sumário:
+
+- Documento de Visão
+- Documento de Requisitos
+- Protótipos
+- Backlog do Produto
+- Sprint Backlogs
+- Relatórios de Sprints
+- Apresentações
+- Manual do Usuário
+
+---
+
+## 🚧 Status do Projeto
+
+> Em desenvolvimento
