@@ -14,6 +14,7 @@
 | Jefhter Rodrigues Cabral      | 2565390   | [Jefhter](https://github.com/Jefhter)        |
 | Kaique Tavares Zambrano       | 2313073   | [KaiqueZambrano](https://github.com/KaiqueZambrano) |
 | Luigi Augusto Rovani          | 2266474   | [luigirovani](https://github.com/luigirovani) |
+| Letícia Esteves Rosa Pereira  | 2312107   | [Noracai03](https://github.com/Noracai03) |
 
 ---
 
