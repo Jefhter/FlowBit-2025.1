@@ -35,6 +35,6 @@ simples e visual. A ideia é facilitar o acompanhamento do dia a dia e incentiva
 
 ---
 
-## 🚧 Status do Projeto
+## 🚧 Status
 
 > Em desenvolvimento
