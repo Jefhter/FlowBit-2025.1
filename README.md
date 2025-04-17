@@ -2,7 +2,7 @@
 
 > Projeto desenvolvido para a disciplina **Desenvolvimento Ágil (EC46C)**  
 
-<img src="assets/logo.png" alt="Logo do Flowbit" width="500" height="500"/>
+![Logo](assets/logo.png)
 
 ---
 
