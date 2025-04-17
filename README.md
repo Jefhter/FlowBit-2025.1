@@ -15,9 +15,9 @@
 
 ---
 
-## 🖼️ Imagem do Grupo
+## 🖼️ Imagem do projeto
 
-> **TODO**: Adicionar uma imagem ilustrativa do grupo ou do projeto aqui.
+![Logo do Flowbit](assets/logo.png)
 
 ---
 
