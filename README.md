@@ -17,7 +17,7 @@
 
 ---
 
-## 📌 Descrição do Projeto
+## 📌 Descrição
 
 - O **FlowBit** é um **habit tracker** feito para ajudar pessoas a criarem e manterem hábitos de forma 
 simples e visual. A ideia é facilitar o acompanhamento do dia a dia e incentivar a constância.
@@ -29,7 +29,7 @@ simples e visual. A ideia é facilitar o acompanhamento do dia a dia e incentiva
 
 ---
 
-## 📂 Documentação Disponível
+## 📂 Documentação
 
 > **TODO**: Adicionar os documentos abaixo com links (ao serem criados).  
 
