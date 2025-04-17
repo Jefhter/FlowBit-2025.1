@@ -19,7 +19,6 @@
 
 ## 📌 Descrição do Projeto
 
-> **TODO**: Adicionar uma descrição clara e objetiva do projeto, incluindo:
 - O **FlowBit** é um **habit tracker** feito para ajudar pessoas a criarem e manterem hábitos de forma 
 simples e visual. A ideia é facilitar o acompanhamento do dia a dia e incentivar a constância.
 - As principais funcionalidades do FlowBit são:
