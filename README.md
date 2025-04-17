@@ -29,7 +29,7 @@ simples e visual. A ideia é facilitar o acompanhamento do dia a dia e incentiva
 
 ---
 
-## 📂 Documentação Disponível no Repositório
+## 📂 Documentação Disponível
 
 > **TODO**: Adicionar os documentos abaixo com links (ao serem criados).  
 
