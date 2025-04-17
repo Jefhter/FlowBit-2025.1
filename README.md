@@ -2,6 +2,8 @@
 
 > Projeto desenvolvido para a disciplina **Desenvolvimento Ágil (EC46C)**  
 
+<img src="assets/logo.png" alt="Logo do Flowbit" width="500" height="500"/>
+
 ---
 
 ## 👥 Integrantes
@@ -12,12 +14,6 @@
 | Jefhter Rodrigues Cabral      | 2565390   | [Jefhter](https://github.com/Jefhter)        |
 | Kaique Tavares Zambrano       | 2313073   | [KaiqueZambrano](https://github.com/KaiqueZambrano) |
 | Luigi Augusto Rovani          | 2266474   | [luigirovani](https://github.com/luigirovani) |
-
----
-
-## 🖼️ Imagem do projeto
-
-![Logo do Flowbit](assets/logo.png)
 
 ---
 
