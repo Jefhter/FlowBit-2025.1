@@ -24,26 +24,19 @@
 ## 📌 Descrição do Projeto
 
 > **TODO**: Adicionar uma descrição clara e objetiva do projeto, incluindo:
-- O **objetivo principal** do software
-- As **principais funcionalidades**
-- O **público-alvo**
-- O contexto ou motivação para a criação do sistema
+- O **FlowBit** é um **habit tracker** feito para ajudar pessoas a criarem e manterem hábitos de forma 
+simples e visual. A ideia é facilitar o acompanhamento do dia a dia e incentivar a constância.
+- As principais funcionalidades do FlowBit são:
+  - Criar, editar, visualizar e buscar hábitos
+  - Marcar hábitos como feito
+  - Enviar lembretes personalizados
+- O **público alvo** é qualquer pessoa que queira organizar melhor sua rotina, manter hábitos saudáveis ou melhorar sua produtividade.
 
 ---
 
 ## 📂 Documentação Disponível no Repositório
 
 > **TODO**: Adicionar os documentos abaixo com links (ao serem criados).  
-> Por enquanto, seguem como sumário:
-
-- Documento de Visão
-- Documento de Requisitos
-- Protótipos
-- Backlog do Produto
-- Sprint Backlogs
-- Relatórios de Sprints
-- Apresentações
-- Manual do Usuário
 
 ---
 
