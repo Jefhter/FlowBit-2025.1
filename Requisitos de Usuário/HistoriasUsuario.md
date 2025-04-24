@@ -44,4 +44,4 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
 <p>Tabela 3: História de Usuário</p>
 </div>
 
-## 5. Referências bibliográficas
+## 2. Referências bibliográficas
