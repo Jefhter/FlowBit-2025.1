@@ -30,7 +30,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário, desejo visualizar quais dias um hábito se repete</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>As informações devem aparecer ao clicar no hábito</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"> Baixa </td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF10</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">-</td>
         </tr>
         <tr>
             <span id="ustory-01"></span>
