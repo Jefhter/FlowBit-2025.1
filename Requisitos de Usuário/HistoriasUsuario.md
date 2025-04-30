@@ -1,7 +1,9 @@
 
 # 1. História de Usuário
 
-A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas. 
+A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
+
+### Observação: Como o usuário final pode ser qualquer pessoa, o usuário das histórias foi definido como [usuário regular]
 
 <table>
     <thead>
