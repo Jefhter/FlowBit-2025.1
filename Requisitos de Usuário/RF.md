@@ -4,15 +4,13 @@
 
 | ID   |                                 Requisito                            | Prioridade | Requisitos Relacionados |
 | :--: | :--------------------------------------------------------------------| :--------: | :---------------------: |
-| RF01 |O software deve permitir que o usuário adicione hábitos.              |            |                         |
-| RF02 |Cada hábito deve ter conteúdo, data de criação e prazo.               |            |                         |
-| RF03 |Um hábito pode ser marcado como "done" (feito).                       |            |                         |
-| RF04 |Hábitos marcados como "done" são acompanhados pela data de conclusão. |            |                         |
-| RF05 |Os hábitos são organizados em "working" e "done".                     |            |                         |
-| RF06 |O sistema deve permitir a visualização de todos os hábitos existentes.|            |                         |
-| RF07 |O usuário pode buscar hábitos pelo conteúdo.                          |            |                         |
-| RF08 |O usuário deve ser capaz de remover hábitos.                          |            |                         |
-| RF09 |O usuário deve ser notificado quando o prazo de um hábito é expirado. |            |                         |
+| RF01 | O usuário pode criar, editar e remover hábitos.                      | Alta       |                         |
+| RF02 | Cada hábito deve ter um título (ou descrição) e uma recorrência.     | Alta       |                         |
+| RF03 | Cada hábito pode ter uma data de início e uma data de término.       | Alta       |                         |
+| RF04 | A data de início não pode ser posterior à de término.                | Alta       | RF03                    |
+| RF05 | Os hábitos são filtrados de acordo com sua recorrência.              | Média      | RF02                    |
+| RF06 | Hábitos com horário de início devem ser exibidos em ordem crescente. | Baixa      | RF03                    |
+| RF07 | Campos obrigatórios devem ser validados com mensagens de erro claras.| Alta       | RF01, RF02              |
 
 <div style="text-align: center">
 <p>Tabela 1: Requisitos Funcionais</p>
