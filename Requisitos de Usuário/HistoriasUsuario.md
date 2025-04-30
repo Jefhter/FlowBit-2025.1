@@ -3,7 +3,7 @@
 
 A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
 
-#### Observação: Como o usuário final pode ser qualquer pessoa, o usuário das histórias foi definido como [usuário regular]
+#### Observação: Como o usuário final pode ser qualquer pessoa, o usuário das histórias foi definido como [usuário]
 
 <table>
     <thead>
@@ -19,8 +19,8 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
         <tr>
             <span id="ustory-01"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US01</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, quero poder assitir vídeos para meu entreterimento</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Ao entrar no aplicativo o vídeo já deve aparecer na página inicial</li><li> A tela do vídeo deve estar maximizada na tela do celular</li><li>Os vídeos devem aparecer em sequência</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário, quero poder adcionar hábitos
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Ao entrar no site, deve aparecer a opção de adcionar hábitos</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF07</td>
         </tr>
