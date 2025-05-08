@@ -1,4 +1,4 @@
-function todoApp() {
+function flowBit() {
   return {
     darkMode: JSON.parse(localStorage.getItem('darkMode')) || false,
     taskList: JSON.parse(localStorage.getItem('taskList')) || [],
