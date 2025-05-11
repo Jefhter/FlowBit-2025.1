@@ -1,5 +1,4 @@
 ﻿import os
-from typing import override
 
 from .base.base import BaseEngine, ujson
 
@@ -8,11 +7,9 @@ class MariaDB(BaseEngine):
         super().__init__(*args, **kwargs)
 
     @property
-    @override
     def collation(self):
         return "utf8mb4_unicode_ci"
     
-    @override
     def parse_url(self, url):
         if not url:
             url = (

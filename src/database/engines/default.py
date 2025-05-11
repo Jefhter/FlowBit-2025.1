@@ -1,5 +1,4 @@
 import os
-from typing import override
 
 from .base.base import BaseEngine
 
@@ -8,11 +7,10 @@ class Default(BaseEngine):
         super().__init__(*args, **kwargs)
 
     @property
-    @override
     def collation(self):
         return 'utf8'
     
-    @override
+    
     def parse_url(self, url):
         if not url:
             url = (

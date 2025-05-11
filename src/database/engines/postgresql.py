@@ -1,5 +1,4 @@
 import os
-from typing import override
 
 from sqlalchemy import create_engine
 
@@ -10,11 +9,9 @@ class PostgreSQL(BaseEngine):
         super().__init__(*args, **kwargs)
 
     @property
-    @override
     def collation(self):
         return 'en_US.UTF-8'
     
-    @override
     def parse_url(self, url):
         if not url:
             url = (
