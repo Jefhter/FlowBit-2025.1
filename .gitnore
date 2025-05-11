@@ -1,26 +1,30 @@
+# Variáveis de ambiente
+.env
 
-#env var
-**/.env
-*.pyc
+# Arquivos Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sessões e dumps
 *.sql
 *.session
 *.session*
-/*.zip
-/ks
 
-#db files
-**/.db
-**/.bd
+# Arquivos compactados e diretório ks
+*.zip
+/ks/
 
-#logs files
-/logs
-/logs/*
+# Bancos de dados SQLite e semelhantes
+*.db
+*.bd
+
+# Logs
+logs/
 *.log.*
-#cache files
 
+# Cache e arquivos temporários
 *.cache
-*.pyc
 *.pyo
 *.pyd
 *.pdb
-/__pycache__/
