@@ -10,7 +10,7 @@ RUN apt-get update && apt-get install -y \
 
 WORKDIR /server
 
-COPY src/server .
+COPY src/ .
 COPY assets ./static
 
 RUN pip install --no-cache-dir -r requirements.txt
