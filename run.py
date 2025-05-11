@@ -1,5 +1,5 @@
 import os
-from src.server.utils.miscellaneous import os_is_windows
+from src.utils.miscellaneous import os_is_windows
 
 DEBUG_MODE = os.getenv('DEBUG_MODE', str(os_is_windows())).lower() == 'true'
 
