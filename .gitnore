@@ -1,0 +1,26 @@
+
+#env var
+**/.env
+*.pyc
+*.sql
+*.session
+*.session*
+/*.zip
+/ks
+
+#db files
+**/.db
+**/.bd
+
+#logs files
+/logs
+/logs/*
+*.log.*
+#cache files
+
+*.cache
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+/__pycache__/

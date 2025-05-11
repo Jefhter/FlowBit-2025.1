@@ -39,3 +39,68 @@ de hábitos diários de forma simples e visual. Ele ajuda a manter a consistênc
 ## 🚧 Status
 
 > Em desenvolvimento
+
+## 🚀 Como usar
+
+### 🔧 Instalação local
+
+```bash
+# 1. Clone o repositório
+git clone https://github.com/Jefhter/FlowBit-2025.1.git
+cd FlowBit-2025.1
+
+# 2. Crie e ative um ambiente virtual
+python -m venv env
+# Linux/macOS:
+source env/bin/activate
+# Windows:
+env\Scripts\activate
+
+# 3. Instale as dependências
+pip install -r requirements.txt
+
+# 4. Execute o servidor
+python run.py
+```
+
+### ⚙️ Configuração de banco de dados
+Por padrão, o sqlite engine será usado como banco de dados
+Você pode utilizar outros bancos compatíveis: **MariaDB**, **MySQL** ou **PostgreSQL**.
+
+#### 🔌 Exemplo com MariaDB:
+
+1. Instale o driver:
+
+```bash
+pip install mariadb
+```
+no .env
+
+DB_ENGINE=mariadb
+DB_USER=flwobit_user
+DB_PASSWORD=flowbit_senha
+DB_HOST=
+DB_NAME=flwobit_database
+
+### 🪵 Configuração de logs
+LOG_LEVEL=DEBUG         # Nível global de logs (DEBUG, INFO, WARNING, ERROR)
+DB_LOG_LEVEL=ERROR      # Nível de logs para o banco de dados
+LOG_FILE=false          # Se 'true', escreve logs em arquivo
+
+⚠️ Importante: Para usar LOG_FILE=true  com múltiplos workers, é necessário instalar concurrent-log-handler
+
+🐳 Executando com Docker
+Build da imagem:
+```bash
+docker build -t flowbit .
+```
+executar
+
+```bash
+docker run -p 8080:8080 flowbit
+```
+
+ou com docker compose 
+```bash
+docker-compose up --build
+```
