@@ -74,18 +74,23 @@ Você pode utilizar outros bancos compatíveis: **MariaDB**, **MySQL** ou **Post
 ```bash
 pip install mariadb
 ```
-no .env
 
+## No .env
+
+```bash
 DB_ENGINE=mariadb
 DB_USER=flwobit_user
 DB_PASSWORD=flowbit_senha
 DB_HOST=
 DB_NAME=flwobit_database
+```
 
 ### 🪵 Configuração de logs
+```bash
 LOG_LEVEL=DEBUG         # Nível global de logs (DEBUG, INFO, WARNING, ERROR)
 DB_LOG_LEVEL=ERROR      # Nível de logs para o banco de dados
 LOG_FILE=false          # Se 'true', escreve logs em arquivo
+```
 
 ⚠️ Importante: Para usar LOG_FILE=true  com múltiplos workers, é necessário instalar concurrent-log-handler
 

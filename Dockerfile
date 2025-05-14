@@ -14,5 +14,4 @@ COPY src/ .
 COPY assets ./static
 
 RUN pip install --no-cache-dir -r requirements.txt
-CMD [
-  "uvicorn", "app.app", "--host", "0.0.0.0", "--port", "8080", "--log-level", "info", "--timeout-keep-alive", "60","--http", "httptools"]
+CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8080", "--log-level", "info", "--timeout-keep-alive", "60", "--http", "httptools"]
