@@ -14,7 +14,6 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <th style="border-style:solid;border-width:1px;text-align:center">Prioridade</th>
             <th style="border-style:solid;border-width:1px;text-align:center">RF/RNF relacionado</th>
             <th style="border-style:solid;border-width:1px;text-align:center">Story Point</th>
-
         </tr>
     </thead>
     <tbody>
