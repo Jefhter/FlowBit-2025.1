@@ -13,6 +13,8 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <th style="border-style:solid;border-width:1px;text-align:center">Critérios de aceitação</th>
             <th style="border-style:solid;border-width:1px;text-align:center">Prioridade</th>
             <th style="border-style:solid;border-width:1px;text-align:center">RF/RNF relacionado</th>
+            <th style="border-style:solid;border-width:1px;text-align:center">Story Point</th>
+
         </tr>
     </thead>
     <tbody>
@@ -23,6 +25,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Ao entrar no site, deve aparecer a opção de adcionar hábitos</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF01</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">8</td>
         </tr>
         <tr>
             <span id="ustory-01"></span>
@@ -31,6 +34,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>As informações devem aparecer ao clicar no hábito</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">-</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
         </tr>
         <tr>
             <span id="ustory-01"></span>
@@ -39,6 +43,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li> Ao clicar num hábito existente, deverá ser exibida a opção de editar o hábito. </li><li>---</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF01, RF02</td>
+             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">2</td>
         </tr>
 </table>
 
