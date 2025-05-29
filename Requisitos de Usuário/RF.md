@@ -11,6 +11,7 @@
 | RF05 | Os hábitos são filtrados de acordo com sua recorrência.              | Média      | RF02                    |
 | RF06 | Hábitos com horário de início devem ser exibidos em ordem crescente. | Baixa      | RF03                    |
 | RF07 | Campos obrigatórios devem ser validados com mensagens de erro claras.| Alta       | RF01, RF02              |
+| RF08 | O usuário pode visualizar os hábitos que ele mesmo criou e/ou editou.| Alta       | RF01                    |
 
 <div style="text-align: center">
 <p>Tabela 1: Requisitos Funcionais</p>
