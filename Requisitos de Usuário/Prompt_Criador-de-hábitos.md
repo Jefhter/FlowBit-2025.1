@@ -40,3 +40,7 @@ Critérios de aceitação:
 
     • Deve ser possível ver todos os hábitos da semana sem rolagem excessiva.
 ```
+
+
+### OBS: 
+Utilizamos essa história de usuário como nossa US04, que está relacionada com a RF08.
