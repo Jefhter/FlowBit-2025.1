@@ -42,6 +42,9 @@ de hábitos diários de forma simples e visual. Ele ajuda a manter a consistênc
 
 ## 🚀 Como usar
 
+### 🌐 Acesso online
+> Acesse: [https://flowbit.site/](https://flowbit.site/)
+
 ### 🔧 Instalação local
 
 ```bash
